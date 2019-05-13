@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>704802312404-3fr83qlpbtimggovj1ua9noanv7p60e4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.704802312404-3fr83qlpbtimggovj1ua9noanv7p60e4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBr8m7AtBJG9obMjGkPDOrKd6yB4RNdOy0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>704802312404</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.ImageClassifierSam</string>
+	<key>PROJECT_ID</key>
+	<string>classifiernew</string>
+	<key>STORAGE_BUCKET</key>
+	<string>classifiernew.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:704802312404:ios:4a59095c08b29b39</string>
+	<key>DATABASE_URL</key>
+	<string>https://classifiernew.firebaseio.com</string>
+</dict>
+</plist>
